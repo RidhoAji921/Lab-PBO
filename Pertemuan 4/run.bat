@@ -1,0 +1,1 @@
+javac Data/*.java; java Data.ProductApp
